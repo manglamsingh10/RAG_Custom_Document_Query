@@ -1,5 +1,3 @@
-Here is a `readme.md` file for your project:
-
 # Document Indexing and Query Interface
 
 This project provides a Streamlit-based interface for indexing documents and querying them using a Gradio chat interface. The project uses LangChain and Ollama LLM for processing queries.
@@ -30,8 +28,8 @@ This project provides a Streamlit-based interface for indexing documents and que
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone git@github.com:manglamsingh10/RAG_Custom_Document_Query.git
+    cd RAG_Custom_Document_Query
     ```
 
 2. Install the required packages:
@@ -82,6 +80,7 @@ This project provides a Streamlit-based interface for indexing documents and que
 ## Screenshots
 Indexing Documents:
 ![img.png](img.png)
+
 
 Query Interface:
 ![img_1.png](img_1.png)
